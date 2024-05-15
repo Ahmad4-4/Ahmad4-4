@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ahmad4-4
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning Python and LISP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmadabughalieh4@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I am currently learning pygame
